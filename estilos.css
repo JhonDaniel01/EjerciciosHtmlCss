@@ -1,0 +1,11 @@
+#titulo {
+    color:rgb(0, 47, 255);
+}
+
+#elemento-1 {
+    color:red;
+}
+
+#titulo, .uno {
+    font-size: 2rem;
+}
